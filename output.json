@@ -1,0 +1,86 @@
+{
+    "name": "Property Law",
+    "crn": "CRN 6031Limited Entry",
+    "terms": [
+        {
+            "dates": "Teaching dates 3rd March 2014 - 20th April 2014",
+            "lectures": [
+                {
+                    "day": "Tuesday",
+                    "time": "13:40 - 14:30",
+                    "room": "Rutherford House RHLT1"
+                },
+                {
+                    "day": "Tuesday",
+                    "time": "13:40 - 14:30",
+                    "room": "Rutherford House RHLT1"
+                },
+                {
+                    "day": "Tuesday",
+                    "time": "13:40 - 14:30",
+                    "room": "Rutherford House RHLT1"
+                }
+            ]
+        },
+        {
+            "dates": "Teaching dates 5th May 2014 - 8th June 2014",
+            "lectures": [
+                {
+                    "day": "Tuesday",
+                    "time": "13:40 - 14:30",
+                    "room": "Rutherford House RHLT1"
+                },
+                {
+                    "day": "Tuesday",
+                    "time": "13:40 - 14:30",
+                    "room": "Rutherford House RHLT1"
+                },
+                {
+                    "day": "Tuesday",
+                    "time": "13:40 - 14:30",
+                    "room": "Rutherford House RHLT1"
+                }
+            ]
+        },
+        {
+            "dates": "Teaching dates 14th July 2014 - 24th August 2014",
+            "lectures": [
+                {
+                    "day": "Tuesday",
+                    "time": "13:40 - 14:30",
+                    "room": "Rutherford House RHLT1"
+                },
+                {
+                    "day": "Tuesday",
+                    "time": "13:40 - 14:30",
+                    "room": "Rutherford House RHLT1"
+                },
+                {
+                    "day": "Tuesday",
+                    "time": "13:40 - 14:30",
+                    "room": "Rutherford House RHLT1"
+                }
+            ]
+        },
+        {
+            "dates": "Teaching dates 8th September 2014 - 19th October 2014",
+            "lectures": [
+                {
+                    "day": "Tuesday",
+                    "time": "13:40 - 14:30",
+                    "room": "Rutherford House RHLT1"
+                },
+                {
+                    "day": "Tuesday",
+                    "time": "13:40 - 14:30",
+                    "room": "Rutherford House RHLT1"
+                },
+                {
+                    "day": "Tuesday",
+                    "time": "13:40 - 14:30",
+                    "room": "Rutherford House RHLT1"
+                }
+            ]
+        }
+    ]
+}

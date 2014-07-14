@@ -1,0 +1,8 @@
+extends layout
+
+block content
+  p please enter your course code i.e. (econ212)
+  form(action='/scrape',method='get')
+    fieldset(data-role='controlgroup')
+      input(id='txt',type='text',value='',placeholder='econ212',name='coursecode')
+      input(id='sub',type='submit',value='Submit course')
