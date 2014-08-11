@@ -8,7 +8,7 @@ var app     = express();
 mongoose.connect('mongodb://localhost/test');
 
 app.get('/', function(req, res){
-	url = 'http://www.victoria.ac.nz/courses/laws/301?year=2014';
+	url = 'http://www.victoria.ac.nz/courses/econ/202?year=2014';
 
 	request(url, function(error, response, html){
 		if (!error) {
